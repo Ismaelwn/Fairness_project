@@ -60,7 +60,5 @@ Les contributions sont bienvenues !
 4. **Pousser votre branche** (`git push origin feature/NouvelleCorrection`).
 5. **Ouvrir une Pull Request**.
 
-## Licence
 
-Ce projet est sous licence MIT.
 
